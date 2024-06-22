@@ -2,5 +2,6 @@
 
 ## 안경 추천 및 가상 시착 APP
 
+![image](demo.gif)
 ![image](main.png)
 
