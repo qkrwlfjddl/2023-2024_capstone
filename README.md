@@ -4,4 +4,3 @@
 
 ![image](main.png)
 
-![image](demo.gif)
