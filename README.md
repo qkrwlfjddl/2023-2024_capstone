@@ -1,4 +1,3 @@
-
 # 3-24 Capstone
 
 ## 안경 추천 및 가상 시착 APP
@@ -22,6 +21,9 @@
 | 실물 안경 사진 분류 | 실제 안경 사진을 기반으로 안경 종류와 특징을 분류합니다. |
 | 3D 가상 시착 | ARCore를 이용해 사용자의 얼굴에 3D 안경 모델을 착용시켜 보여줍니다. |
 
+![22+(1)+(1)](https://github.com/user-attachments/assets/f17eaf32-6883-4142-abed-e61bc0f7cd4a)
+
+
 ## 추천 시스템 구조
 
 ```mermaid
@@ -40,5 +42,3 @@ flowchart TD
     I --> J
     J --> K["ARCore 3D 가상 시착"]
 
-
-![22+(1)+(1)](https://github.com/user-attachments/assets/f17eaf32-6883-4142-abed-e61bc0f7cd4a)
